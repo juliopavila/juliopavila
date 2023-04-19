@@ -4,7 +4,7 @@ Hey there 👋 My name is Julio Avila
 Software Engineer.
 ------------------
 
-I'm a software engineer with over five years of experience in web and mobile development
+I'm a software engineer with over six years of experience in web and mobile development
 
 * 🌍  I'm based in Buenos Aires
 * ✉️  You can contact me at [javila1997@gmail.com](mailto:javila1997@gmail.com)
